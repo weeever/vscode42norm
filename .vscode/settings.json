@@ -40,12 +40,12 @@
 	},
 
 	"editor.quickSuggestions": {
-		"other": false,
-		"comments": false,
-		"strings": false
+		"other": true,
+		"comments": true,
+		"strings": true
 	},
-	"editor.suggest.showWords": false,
-	"editor.acceptSuggestionOnEnter": "off",
+	"editor.suggest.showWords": true,
+	"editor.acceptSuggestionOnEnter": "on",
 
 	"files.eol": "\n",
 	"files.encoding": "utf8"
